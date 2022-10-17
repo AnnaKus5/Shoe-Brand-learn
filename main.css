@@ -23,7 +23,7 @@ nav ul li a {
 }
 
 .head-photo {
-    background: url('shoe.png');
+    background: url('images/shoe.png');
     background-size: cover;
     position: absolute;
     left: 0;
@@ -269,7 +269,7 @@ nav ul li:hover {
         grid-template-areas: "right left";
     }
 
-/*
+
     .feature {
         display: flex;
         justify-content: center;
@@ -299,6 +299,6 @@ nav ul li:hover {
         padding-left: 10rem;
     }
     
-*/
+
         
 }
